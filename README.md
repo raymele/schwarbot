@@ -21,4 +21,5 @@ Source: https://docs.gspread.org/en/v5.7.1/#installation
 
 Use Discord Developer Portal to make “Schwarbot”
 Give it the required permissions to send and receive messages
+Source: https://realpython.com/how-to-make-a-discord-bot-python/ 
 
